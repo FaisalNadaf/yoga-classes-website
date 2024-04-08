@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 
-const Hero1 = () => {
+const Hero1 = () => { 
   return (
     <div className="pt-10 bg-[#F2F9F4] text-[#509995] h-screen ">
       <Navbar />
