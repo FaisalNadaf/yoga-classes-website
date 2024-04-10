@@ -5,6 +5,7 @@ import Hero3 from "./components/Hero3";
 import Hero4 from "./components/Hero4";
 import Hero5 from "./components/Hero5";
 import Hero6 from "./components/Hero6";
+import Hero7 from "./components/Hero7";
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
       <Hero4 />
       <Hero5 />
       <Hero6 />
+      <Hero7 />
     </div>
   );
 }
